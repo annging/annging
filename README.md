@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋， I'm Ivy
+#### A frontend developer from China
 
 <!--
 **annging/annging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
